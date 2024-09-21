@@ -14,3 +14,5 @@ This is basically a healing item in Lethal Company. A useful item for sure but i
 You can only heal if you have taken damage it will not do anythying if you are at full health.
 Will indicate that you are at full health once you're character on the HUD isn't red.
 Also I did not make the model (I suck at modeling) I did the coding.
+
+For a manual download, download the zip file from releases and put the healthitem.dll and heatlhitem file in the plugins folder of Lethal Company.
