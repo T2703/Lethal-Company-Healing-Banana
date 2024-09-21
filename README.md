@@ -16,3 +16,5 @@ Will indicate that you are at full health once you're character on the HUD isn't
 Also I did not make the model (I suck at modeling) I did the coding.
 
 For a manual download, download the zip file from releases and put the healthitem.dll and heatlhitem file in the plugins folder of Lethal Company.
+
+Video demo: https://youtu.be/fP-ASvIEp8o
